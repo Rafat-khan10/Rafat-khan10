@@ -49,8 +49,3 @@ SQL + Power BI
 * 📧 [rafatkhan2210@gmail.com](mailto:rafatkhan2210@gmail.com)
 * 🐙 [GitHub](https://github.com/Rafat-khan10)
 
----
-
-### 📚 Currently Improving
-
-SQL problem solving, Power BI, data analysis, and professional communication as I continue building my Data Analyst portfolio.
