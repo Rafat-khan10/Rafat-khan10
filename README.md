@@ -1,42 +1,56 @@
-# Hey there! 👋
+# Hi, I'm Rafat Khan
 
-I'm **Rafat Khan**, an aspiring Data Analyst.
+**Data Analyst | SQL • Power BI • Python**
 
-I love turning raw data into clear insights that help businesses make better decisions.
+I turn raw data into clear, actionable insights that help businesses better understand performance, customers, and opportunities.
 
-If there's a messy dataset in front of me, chances are I'll clean it, analyze it, and build a dashboard from it.
+My main tech stack is **SQL (PostgreSQL), Power BI, and Python (Pandas)**. I enjoy writing analytical queries, identifying patterns in data, building interactive dashboards, and communicating findings in a simple and clear way.
 
-**My main tech stack is SQL (PostgreSQL), Power BI, and Python (Pandas).**  
-I enjoy writing clean queries, finding patterns, and explaining insights in a simple way.
-
-I've built portfolio projects on sales, customer behavior, taxi demand, hotel bookings, and passenger satisfaction.
-
-If you want to see my work, check out the pinned projects below.
+I’ve built portfolio projects focused on **sales analysis, customer behavior, hotel bookings, airline passenger satisfaction, and NYC taxi demand**.
 
 ---
 
-### 📌 What I focus on
-- SQL analysis & data cleaning
-- Power BI dashboard design
-- Business insights & recommendations
-- Practicing SQL through LeetCode, DataLemur, and StrataScratch
+### 🎯 What I Focus On
+
+* SQL analysis and data preparation
+* Power BI dashboards and data visualization
+* Customer and sales analysis
+* Business insights and recommendations
+* SQL problem solving through LeetCode, DataLemur, and StrataScratch
 
 ---
 
 ### 🛠️ Skills
-`SQL` `PostgreSQL` `Power BI` `DAX` `Python` `Pandas` `Data Cleaning` `RFM` `Data Visualization`
+
+`SQL` `PostgreSQL` `Power BI` `DAX` `Python` `Pandas`
+`Data Cleaning` `RFM Segmentation` `Data Visualization` `Business Analysis`
 
 ---
 
-### 🔗 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/rafat-khan-7215953a1/)
-- 📧 rafatkhan2210@gmail.com
-- 🐙 [GitHub](https://github.com/Rafat-khan10)
+### 📊 Featured Projects
+
+**Electronics Retailer**
+PostgreSQL + Power BI + Python | RFM Segmentation
+
+**Hotel Booking Performance**
+SQL + Power BI
+
+**Airline Passenger Satisfaction**
+Power BI
+
+**NYC Green Taxi Analytics**
+SQL + Power BI
 
 ---
 
-### Fun Facts
-- I enjoy solving SQL problems daily
-- I like turning complex data into simple stories
-- Power BI dashboards are my favorite part of analysis
-- Always learning something new in data
+### 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/rafat-khan-7215953a1/)
+* 📧 [rafatkhan2210@gmail.com](mailto:rafatkhan2210@gmail.com)
+* 🐙 [GitHub](https://github.com/Rafat-khan10)
+
+---
+
+### 📚 Currently Improving
+
+SQL problem solving, Power BI, data analysis, and professional communication as I continue building my Data Analyst portfolio.
