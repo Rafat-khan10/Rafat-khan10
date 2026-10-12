@@ -27,51 +27,50 @@ My portfolio projects are built around this way of thinking.
 ### 📊 Featured Projects
 
 **1. Global Electronics Retailer Analysis**  
-A PostgreSQL + Power BI project focused on customer value, product profitability, and sales performance using a multi-table retail dataset.
+**Tools:** PostgreSQL · Power BI · Python (Pandas)
 
-The project includes RFM segmentation, revenue and profit analysis, and a 3-page Power BI dashboard to support clear business recommendations.
+Analyzed a multi-table retail dataset to understand customer value, revenue trends, and product profitability. Used RFM segmentation and built a three-page Power BI dashboard to present findings and business recommendations.
 
-**Focus:** RFM segmentation • Customer analysis • Product profitability • Sales trends • Dashboard design  
+**Focus:** RFM Segmentation · Customer Analysis · Revenue & Profitability · Sales Trends  
 
-[View Project](https://github.com/Rafat-khan10/global_electronics_retailer)
+[View Repository →](https://github.com/Rafat-khan10/global_electronics_retailer)
 
 ---
 
 **2. NYC Green Taxi Analytics**  
-A SQL + Power BI project focused on trip demand, revenue patterns, and location performance using real NYC TLC Green Taxi data.
+**Tools:** SQL (PostgreSQL) · Power BI
 
-The project covers data quality checks, time-based demand analysis, CBD vs non-CBD fare comparison, and practical recommendations for operations planning.
+Analyzed NYC TLC Green Taxi trip data to explore demand patterns, revenue trends, and differences in average fares between trips touching the Congestion Relief Zone and other trips.
 
-**Focus:** Demand patterns • Revenue analysis • Location insights • Data quality • Operational recommendations  
+**Focus:** Time-Based Demand · Location Analysis · Fare Comparison · Data Quality  
 
-[View Project](https://github.com/Rafat-khan10/nyc-green-taxi-analytics)
+[View Repository →](https://github.com/Rafat-khan10/nyc-green-taxi-analytics)
 
 ---
 
 **3. Hotel Booking Performance Analysis**  
-A SQL + Power BI project focused on hotel booking performance, cancellations, and revenue-related patterns.
+**Tools:** PostgreSQL · Power BI · Python (Pandas)
 
-The analysis explores booking behavior, cancellation drivers, and key performance indicators to support better operational and revenue decisions.
+Analyzed hotel booking data to explore cancellation patterns, average daily rate (ADR), and customer and market-segment performance across City and Resort hotels.
 
-**Focus:** Booking analysis • Cancellation patterns • KPI tracking • Revenue insights • Dashboard reporting  
+**Focus:** Booking Analysis · Cancellation Patterns · ADR Trends · Revenue Insights  
 
-[View Project](https://github.com/Rafat-khan10/hotel-booking-analysis)
+[View Repository →](https://github.com/Rafat-khan10/hotel-booking-analysis)
 
 ---
 
 **4. Airline Passenger Satisfaction Analysis**  
-A Power BI project focused on passenger satisfaction drivers and service quality patterns.
+**Tools:** PostgreSQL · Power BI · Python (Pandas)
 
-The dashboard highlights key factors influencing satisfaction and helps identify areas where service improvements can have the most impact.
+Analyzed airline passenger survey data to explore satisfaction patterns across travel classes, customer groups, flight delays, and service ratings.
 
-**Focus:** Customer satisfaction • Service quality • Segmentation • Dashboard insights  
+**Focus:** Customer Segmentation · Service Quality · Satisfaction Patterns · Dashboard Insights  
 
-[View Project](https://github.com/Rafat-khan10/airline-passenger-satisfaction-analysis)
+[View Repository →](https://github.com/Rafat-khan10/airline-passenger-satisfaction-analysis)
 
 ---
 
 ### 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafat-khan-7215953a1/)
 - 📧 [rafatkhan2210@gmail.com](mailto:rafatkhan2210@gmail.com)
-- 🐙 [GitHub](https://github.com/Rafat-khan10)
-
+- 🐙 [GitHub](https://github.com/Rafat-khan10
